@@ -13,7 +13,7 @@ export function HeroSection() {
       <div
         className="absolute inset-0 parallax-bg"
         style={{
-          backgroundImage: `linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4)), url('/images/hero-forest-lake.jpg')`,
+          backgroundImage: `linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4)), url('/images/hero-tree.jpg')`,
         }}
       />
 
